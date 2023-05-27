@@ -4,7 +4,7 @@
 
 ###  Control Flow Graph
 
-
+![CFG](si_graph_ft.png)
 
 ### Цикломатска комплексност
 
